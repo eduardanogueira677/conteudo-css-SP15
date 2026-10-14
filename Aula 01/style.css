@@ -1,0 +1,17 @@
+body {
+    background-color: plum;
+}
+
+h4.ex1 {
+    color: blueviolet;
+    text-align: center;
+
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ex2-h3, .ex2-p {
+    color: antiquewhite;
+}
